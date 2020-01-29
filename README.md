@@ -1,5 +1,5 @@
 # MovieStore_SwiftUIapp
-My first app made in SwifUI
+MovieStore is made in SwiftUI with elements of UIKit (such as UIImagePicker)
 
 ## Functionality
 You can store there Movies, Books and Series which you've seen or you want to see. You can rate it and put a review. You can add custom Image or leave default Image connected with choosen category.
